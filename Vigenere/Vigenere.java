@@ -1,4 +1,4 @@
-package vigenere;
+package Vigenere;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -19,7 +19,7 @@ class Vigenere{
         String chave = "";
         String chaveEstendida = "";
         String mensagemCifrada = "";
-        File arquivo = new File("./vigenere/texto_cripto.txt");
+        File arquivo = new File("./Vigenere/texto_cripto.txt");
         
         System.out.println("+-------------------------------------------------+");
         System.out.println("|O conteudo do arquivo texto_cripto.txt sera usado|");
