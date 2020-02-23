@@ -2,13 +2,13 @@
 
     Projetos realizados para a disciplina de Segurança de Dados ofertada no primeiro quadrimestre na UFABC.
 
-# Como usar
+## Como usar
 
-Exemplo para a cifra de Vigenère:
+    O programa terá instruções próprias de que serão passadas após sua inicialização. Para iniciarlizar qualquer projeto basta seguir as instruções abaixo que seguem como exemplo a cifra de Vigenère:
 
 ```
-$ javac Vigenere/Vigenere.java
-$ java Vigenere/Vigenere
+$ javac vigenere/Vigenere.java
+$ java vigenere/Vigenere
 ```
 
     
