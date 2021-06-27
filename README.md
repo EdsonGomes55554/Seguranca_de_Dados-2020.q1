@@ -1,6 +1,6 @@
 # Segurança de Dados
 
-    Projetos realizados para a disciplina de Segurança de Dados ofertada no primeiro quadrimestre na UFABC.
+    Projetos realizados para a disciplina de Segurança de Dados ofertada no primeiro quadrimestre de 2020 na UFABC.
 
 ## Como usar
 
