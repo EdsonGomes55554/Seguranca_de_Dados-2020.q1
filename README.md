@@ -4,7 +4,7 @@
 
 ## Como usar
 
-    O programa terá instruções próprias de que serão passadas após sua inicialização. Para iniciarlizar
+    O programa terá instruções próprias de que serão passadas após sua inicialização. Para inicializar
     qualquer projeto basta seguir as instruções abaixo que seguem como exemplo a cifra de Vigenère:
 
 ```
